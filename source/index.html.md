@@ -2,10 +2,8 @@
 title: API Reference
 
 language_tabs: # must be one of https://git.io/vQNgJ
-  - shell
-  - ruby
+  - shell 
   - python
-  - javascript
 
 toc_footers:
   - <a href='https://oceanex.pro'>Documentation Powered by OcenaEx</a>
