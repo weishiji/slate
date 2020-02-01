@@ -286,7 +286,7 @@ html, body {
     float:left;
     color: $lang-select-text;
     text-decoration: none;
-    padding: 0 10px;
+    padding: 12px;
     line-height: 30px;
     outline: 0;
 
@@ -513,7 +513,7 @@ html, body {
 .content {
   pre, blockquote {
     background-color: $code-bg;
-    color: #fff;
+    color: $code-text;
 
     margin: 0;
     width: $examples-width;
@@ -528,7 +528,7 @@ html, body {
     &>p { margin: 0; }
 
     a {
-      color: #fff;
+      color: $code-text;
       text-decoration: none;
       border-bottom: dashed 1px #ccc;
     }
@@ -545,7 +545,7 @@ html, body {
     &>p {
       background-color: $code-annotation-bg;
       padding: $code-annotation-padding 2em;
-      color: #eee;
+      color: $code-text;
     }
   }
 }
@@ -607,7 +607,10 @@ html, body {
 }
 
 .highlight .c, .highlight .cm, .highlight .c1, .highlight .cs {
-  color: #909090;
+  color: #424242;
+}
+.highlight code {
+  color: #424242;
 }
 
 .highlight, .highlight .w {

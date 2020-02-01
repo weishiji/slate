@@ -25,6 +25,12 @@ We have language bindings in Shell, Ruby, Python, and JavaScript! You can view c
 
 This example API documentation page was created with [Slate](https://github.com/lord/slate). Feel free to edit it and use it as a base for your own API's documentation.
 
+This example API documentation page was created with [Slate](https://github.com/lord/slate). Feel free to edit it and use it as a base for your own API's documentation.
+This example API documentation page was created with [Slate](https://github.com/lord/slate). Feel free to edit it and use it as a base for your own API's documentation.
+This example API documentation page was created with [Slate](https://github.com/lord/slate). Feel free to edit it and use it as a base for your own API's documentation.
+This example API documentation page was created with [Slate](https://github.com/lord/slate). Feel free to edit it and use it as a base for your own API's documentation.
+This example API documentation page was created with [Slate](https://github.com/lord/slate). Feel free to edit it and use it as a base for your own API's documentation.
+
 # Authentication
 
 > To authorize, use this code:
@@ -67,6 +73,85 @@ You must replace <code>meowmeowmeow</code> with your personal API key.
 
 # Kittens
 
+## this is javascript demo
+```javascript
+const a = 1;
+const a = 1;
+const a = 1;
+const a = 1;
+const a = 1;
+const a = 1;
+const a = 1;
+const a = 1;
+const a = 1;
+const a = 1;
+const a = 1;
+const a = 1;
+const a = 1;
+const a = 1;
+const a = 1;
+const a = 1;
+const a = 1;
+const a = 1;
+const b = 2;
+const b = 2;
+const b = 2;
+const b = 2;
+const b = 2;
+const b = 2;
+const b = 2;
+const b = 2;
+const b = 2;
+const b = 2;
+const b = 2;
+const b = 2;
+const b = 2;
+const b = 2;
+const b = 2;
+const b = 2;
+const b = 2;
+const b = 2;
+```
+## this is shell demo
+```shell
+sudo chomd 700 .ssh/
+sudo chomd 700 .ssh/
+sudo chomd 700 .ssh/
+sudo chomd 700 .ssh/
+sudo chomd 700 .ssh/
+sudo chomd 700 .ssh/
+sudo chomd 700 .ssh/
+sudo chomd 700 .ssh/
+sudo chomd 700 .ssh/
+sudo chomd 700 .ssh/
+sudo chomd 700 .ssh/
+sudo chomd 700 .ssh/
+sudo chomd 700 .ssh/
+sudo chomd 700 .ssh/
+sudo chomd 700 .ssh/
+sudo chomd 700 .ssh/
+sudo chomd 700 .ssh/
+sudo chomd 700 .ssh/
+sudo chomd 700 .ssh/
+sudo chomd 700 .ssh/
+sudo chomd 700 .ssh/
+sudo chomd 700 .ssh/
+sudo chomd 700 .ssh/
+sudo chomd 700 .ssh/
+sudo chomd 700 .ssh/
+sudo chomd 700 .ssh/
+sudo chomd 700 .ssh/
+sudo chomd 700 .ssh/
+sudo chomd 700 .ssh/
+sudo chomd 700 .ssh/
+```
+## Get All Kittens
+## Get All Kittens
+## Get All Kittens
+## Get All Kittens
+## Get All Kittens
+## Get All Kittens
+## Get All Kittens
 ## Get All Kittens
 
 ```ruby

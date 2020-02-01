@@ -10,6 +10,10 @@
 
 <p align="center"><em>The example above was created with Slate. Check it out at <a href="https://slatedocs.github.io/slate">slatedocs.github.io/slate</a>.</em></p>
 
+# ruby的自定义code 语法样式
+https://github.com/rouge-ruby/rouge
+https://rouge-ruby.github.io/docs/Rouge/Themes/Magritte.html 主题定制
+
 Features
 ------------
 
