@@ -1,5 +1,6 @@
 # Public REST Endpoints
 
+## Markets
 
 ```shell
 curl -X GET \
@@ -45,7 +46,7 @@ This API gets a list of available markets for trading. (`get` method supported)
 
 
 
-## Markets
+
 This API gets a list of available markets for trading.
 
 Rate limit: `3000 req/min`
