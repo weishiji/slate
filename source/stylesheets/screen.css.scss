@@ -292,12 +292,12 @@ html, body {
 
     &:active, &:focus {
       background-color: $lang-select-pressed-bg;
-      color: $lang-select-pressed-text;
+      color: $lang-select-text;
     }
 
     &.active {
       background-color: $lang-select-active-bg;
-      color: $lang-select-active-text;
+      color: $nav-active-bg;
     }
   }
 
