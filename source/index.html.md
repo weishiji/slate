@@ -6,7 +6,7 @@ language_tabs: # must be one of https://git.io/vQNgJ
   - python
 
 toc_footers:
-  - <a href='https://oceanex.pro'>Documentation Powered by OcenaEx</a>
+  - <a href='https://oceanex.pro'>Documentation Powered by OceanEx</a>
 
 includes:
   - introduction

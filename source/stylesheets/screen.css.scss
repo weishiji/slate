@@ -71,11 +71,21 @@ html, body {
     }
   }
 
+  .logo-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #FFF;
+    border-bottom: 1px solid #ccc;
+    height: 54px;
+  }
+
   // This is the logo at the top of the ToC
   .logo {
     display: block;
     max-width: 100%;
     margin-bottom: $logo-margin;
+    height: 40px;
   }
 
   &>.search {
